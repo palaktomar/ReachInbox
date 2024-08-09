@@ -10,5 +10,8 @@ Deployment Link :  https://palaktomar.github.io/ReachInbox/
 
 LOGIN PAGE: ![page 1](https://github.com/user-attachments/assets/f2f80e46-70c2-40c3-b9a8-74e85fedd61d)
 
+PADE 2: ![page 22](https://github.com/user-attachments/assets/d8e3ab9f-3315-44fa-9e19-32a9f02235f3)
+
+
 
 
