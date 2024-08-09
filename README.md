@@ -8,4 +8,7 @@ This is the vedio link that explains the entire code line by line : https://www.
 Deployment Link :  https://palaktomar.github.io/ReachInbox/
 
 
+LOGIN PAGE:"C:\Users\Lenovo\Desktop\page 1.jpg"
+
+
 
